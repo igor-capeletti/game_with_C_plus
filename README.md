@@ -7,7 +7,7 @@ Caso a bola encoste em algum dos obstáculos(espadas), a bola irá voltar para a
 
 Caso você chegue até o final, o jogo irá fechar!
 
-# Tutorial de como usar: 
+# Executar jogo com: 
 
 	bash script_execucao.sh
 ou
