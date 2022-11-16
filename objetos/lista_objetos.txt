@@ -1,0 +1,5 @@
+/---------- barra no inicio significa comentario (OBS: não deixar linhas em branco)
+/----------
+/---------- nome_objeto escala x y z red green blue rotx roty rotz
+objetos/bola_2.obj 10 0 33 0 1.0 1.0 1.0 1.0 0.0 0.0
+objetos/espada.obj 1 0 25 1000 1.0 1.0 1.0 1.57 0.0 0.0
