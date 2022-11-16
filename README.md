@@ -7,9 +7,15 @@ Caso a bola encoste em algum dos obstáculos(espadas), a bola irá voltar para a
 
 Caso você chegue até o final, o jogo irá fechar!
 
+# Instalação das dependências (realizar antes de executar o jogo):
+    sudo apt-get install g++
+    sudo apt-get install openctm-tools
+    sudo apt-get update
+    sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev mesa-utils freeglut3 libglew-dev
+
 # Executar jogo com: 
 
-	bash script_execucao.sh
+    bash script_execucao.sh
 ou
 
     ./script_execucao.sh
